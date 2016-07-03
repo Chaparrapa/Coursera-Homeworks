@@ -1,5 +1,15 @@
+*{
+	box-sizing: border-box;
+}
 h1{
 	text-align: center;
+}
+p{
+	background-color: blue;
+	color: white;
+	border: 1px solid white;
+	height: 100px;
+	width: 90%;
 }
 div{
 	background-color: gray;
